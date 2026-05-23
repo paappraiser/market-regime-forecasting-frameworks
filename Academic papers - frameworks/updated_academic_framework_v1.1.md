@@ -1,1 +1,0 @@
-See full v1.1 Markdown. PDF version available via local download or request conversion. Key updates: concentration risk, gamma proxy, etc.
